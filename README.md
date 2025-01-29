@@ -14,19 +14,19 @@ Com habilidades sólidas em **Java, JavaScript, PHP, Python, HTML/CSS, WordPress
 - Copywriting e Marketing Digital
 
 ## Experiência Profissional
-### ** Autônomo | Desenvolvedor Full Stack & Consultor de TI (2022 - atualmente)**
+### **Autônomo | Desenvolvedor Full Stack & Consultor de TI (2022 - atualmente)**
 - Criação e manutenção de sites e sistemas personalizados para empresas e autônomos.
 - Implementação de soluções sob medida em WordPress, otimização de SEO e responsividade.
 - Manutenção preventiva e corretiva de hardware e software.
 - Consultoria em transformação digital e cibersegurança.
 
-### ** Digitador | Centerclin (2022 - 2024)**
+### **Digitador | Centerclin (2022 - 2024)**
 - Gerenciamento de sistemas ERP e SST, garantindo eficiência na gestão de informações.
 - Responsável pelo envio do **eSocial de mais de 150 empresas**.
 - Implantação de soluções automatizadas para otimização de processos administrativos.
 - Atendimento ao público, manuseio e proteção de dados sensíveis.
 
-### ** Social Media | NutralClass (2021 - 2023)**
+### **Social Media | NutralClass (2021 - 2023)**
 - Gestão e criação de conteúdo para uma marca com mais de **65 mil seguidores**.
 - Desenvolvimento de estratégias para crescimento orgânico e engajamento digital.
 - Copywriting, design gráfico e edição de vídeos voltados para conversão e persuasão.
